@@ -6,7 +6,7 @@ layout: default
 # Alex Joe
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/static/imgs/headshot.jpeg" alt="My headshot"  width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/headshot.jpeg" alt="My headshot" width="500"/>
 
 ## Education
 
@@ -14,7 +14,7 @@ I study Economics and Peace, War, and Defense at the University of North Carolin
 
 ## Extracurriculars
 
-I serve as President of Ratio Christi, a club theology and apologetics oriented club that seeks to rationalize the Christian faith. I also am the treasurer of International Justice Mission, a club that raises money to combat human trafficking, domestic abuse, and other forms of modern-day slavery.
+I serve as President of Ratio Christi, a club theology and apologetics oriented club that seeks to rationalize the Christian faith. I also am the treasurer of International Justice Mission, a club that raises money to combat human trafficking, domestic abuse, and other forms of modern-day slavery. To stay in shape, I also am on the club swim team, where I compete with my team at other schools!
 
 ## Personal
 
