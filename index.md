@@ -6,7 +6,7 @@ layout: default
 # Alex Joe
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="{{ site.baseurl }}/static/imgs/headshot.jpeg" alt="My headshot" width="500"/>
+<img src="{{ site.baseurl }}/static/imgs/headshot.jpeg" alt="My headshot" width="300"/>
 
 ## Education
 
@@ -18,4 +18,4 @@ I serve as President of Ratio Christi, a club theology and apologetics oriented 
 
 ## Personal
 
-I live in Charlotte, North Carolina with my parent, younger sister, and two dogs. My family lived in Asheville until 2018, when I moved to Charlotte and learned about my love for bigger cities.
+I live in Charlotte, North Carolina with my parent, younger sister, and two dogs. My family lived in Asheville until 2018, when I moved to Charlotte and learned about my love for bigger cities. In my free time, you can find me at whatever sport event is happening on campus, playing Mahjong with my friends, or practicing whatever new song I am learning on the piano!
