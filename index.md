@@ -14,6 +14,8 @@ In this exercise, I investigated who pre-lecture videos would benefit most by an
 
 <img src="{{ site.baseurl }}/static/imgs/line_difficulty_videos.png" alt="Line charts of difficulty and video questions" width="300"/>
 
+<img src="{{ site.baseurl }}/static/imgs/difficulty_all.png" alt="Histogram of video answers" width="300"/>
+
 <img src="{{ site.baseurl }}/static/imgs/videos_hist.png" alt="Histogram of video answers" width="300"/>
 
 ## Conclusion
